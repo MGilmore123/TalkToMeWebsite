@@ -3,3 +3,9 @@ html {
   width: 100%;
 }
 
+body {
+  background-image: url('blanMEDTION.webp'); 
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
