@@ -4,16 +4,17 @@ html {
 }
 
 body {
-  background-image: url('blanMEDTION.webp'); 
+  background-image: url('blanMEDTION.webp');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
 }
-#nav{
-   width: 100px;
-    border: 15px solid black;
-    padding: 10px;
-    margin: 20px;
+
+#nav {
+  width: 100px;
+  border: 15px solid black;
+  padding: 10px;
+  margin: 20px;
 }
 
 p {
@@ -26,4 +27,14 @@ a {
 
 ul {
   list-style-type: none;
+}
+
+div {
+  font-size: 20px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow' Bold', sans-serif color: green;
+}
+
+
+div {
+  font-family: sans-serif;
 }
