@@ -15,7 +15,11 @@ body {
   border: 15px solid black;
   padding: 10px;
   margin: 20px;
+  
 }
+
+
+
 
 p {
   color: white;
@@ -27,6 +31,7 @@ a {
 
 ul {
   list-style-type: none;
+  
 }
 
 div {
@@ -38,3 +43,4 @@ div {
 div {
   font-family: sans-serif;
 }
+
